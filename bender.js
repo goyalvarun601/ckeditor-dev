@@ -15,7 +15,7 @@ var config = {
 
 	framework: 'yui',
 
-  startBrowser: 'chrome',
+  //startBrowser: 'chrome',
 
 	// secure: true,
 	privateKey: 'tests/_benderjs/ssl/key.pem',
